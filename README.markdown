@@ -4,7 +4,7 @@ A simple chess game built using HTML, CSS, and JavaScript.
 
 ## Game Preview
 
-![Chess Game Screenshot](Screenshot 2026-03-08 105349.png)
+![Chess Game Screenshot](Screenshot.png)
 
 ## Features
 - Interactive chess board
