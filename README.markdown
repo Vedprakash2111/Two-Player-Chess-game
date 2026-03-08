@@ -1,4 +1,18 @@
-# Javascript Chess Game by Abdul
-please subscribe  my channel "THE SOLUTION HUB" for more videos and tuts
+# JavaScript Chess Game
 
-![Local image example](Screenshot 2026-03-08 105349.png)
+A simple chess game built using HTML, CSS, and JavaScript.
+
+## Game Preview
+
+![Chess Game Screenshot](Screenshot 2026-03-08 105349.png)
+
+## Features
+- Interactive chess board
+- Turn-based gameplay
+- Piece movement validation
+- Simple UI
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
